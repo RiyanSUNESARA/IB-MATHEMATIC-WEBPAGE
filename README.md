@@ -1,2 +1,2 @@
 # IB-MATHEMATIC-WEBPAGE
-Download the product and open index.html
+Download the product as a zip file and open index.html
